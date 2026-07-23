@@ -144,19 +144,11 @@ sudo certbot renew --dry-run
 * **Week 1:** Provisioned AWS EC2 Ubuntu instance, configured Inbound Security Group rules (Ports 22, 80, and 443), and established SSH connectivity.
 * **Week 2:** Installed Apache2 web server, mapped Porkbun DNS A Records for `ytcreatorhub.xyz`, and configured Let's Encrypt SSL/TLS using Certbot.
 * **Week 3:** Integrated dynamic JavaScript counter scripting into HTML, authored project documentation, recorded video walkthrough, and finalized submission PDF.
-EOF
-
-```
 
 ---
 
-### Push to GitHub
+## 7. References
 
-Once executed, push the updated `README.md` to GitHub using these standard commands:
-
-```bash
-git add README.md
-git commit -m "docs: update README with project architecture and deployment details"
-git push origin main
-
-```
+* Amazon Web Services. (2026). *Amazon EC2 User Guide for Linux Instances*. AWS Documentation. https://docs.aws.amazon.com/ec2/
+* Apache HTTP Server Project. (2026). *Apache HTTP Server Version 2.4 Documentation*. Apache Software Foundation. https://httpd.apache.org/docs/2.4/
+* Canonical. (2026). *Ubuntu Server Guide — Web Servers*. Canonical Ltd. https://ubuntu.com/server/docs/web-servers
