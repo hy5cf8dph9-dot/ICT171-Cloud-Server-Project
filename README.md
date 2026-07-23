@@ -1,7 +1,7 @@
 Here is the updated documentation formatted specifically with your details, IP address, domain name, and repository details, ready to copy into your `README.md` on GitHub:
 
 ```markdown
-# ICT171 Cloud Server Project - Documentation
+## ICT171 Cloud Server Project - Documentation
 
 | Parameter | Details |
 | :--- | :--- |
