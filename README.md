@@ -1,7 +1,3 @@
-Here is the single terminal command using a raw heredoc (`cat << 'EOF' > README.md`). Running this directly in your terminal will write the exact Markdown content—including all headings, tables, and code blocks—straight into `README.md` without breaking any formatting:
-
-```bash
-cat << 'EOF' > README.md
 # ICT171 Cloud Server Project - Documentation
 
 | Parameter | Details |
