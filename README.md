@@ -8,7 +8,7 @@
 | **Server Global IP** | 13.60.58.95 |
 | **Domain Name** | https://ytcreatorhub.xyz |
 | **GitHub Repository** | https://github.com/hy5cf8dph9-dot/ICT171-Cloud-Server-Project |
-| **Video Explainer Link**| [Insert Video Link Here] |
+| **Video Explainer Link** | https://youtu.be/Mk5cQakbcM0?si=Yh71_UafKt7AYscj |
 
 ---
 
